@@ -10,6 +10,7 @@ namespace simularprova2
         private void button1_Click(object sender, EventArgs e)
         {
             //vamo que vamo
+            //peguei o esquema rapa
         }
     }
 }
